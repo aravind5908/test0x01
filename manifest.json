@@ -1,0 +1,76 @@
+{
+    "name": "Internalyze",
+    "short_name": "Internalyze",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/img/chefs/chefs-1.jpg",
+        "type": "image/jpg",
+        "sizes": "600x600"
+      },
+      {
+        "src": "/img/chefs/chefs-2.jpg",
+        "type": "image/jpg",
+        "sizes": "600x600"
+      },
+      {
+        "src": "/img/chefs/chefs-3.jpg",
+        "type": "image/jpg",
+        "sizes": "600x600"
+      },
+      {
+        "src": "/img/testimonials/testimonials-1.jpg",
+        "type": "image/jpg",
+        "sizes": "400x400"
+      },
+      {
+        "src": "/img/testimonials/testimonials-2.jpg",
+        "type": "image/jpg",
+        "sizes": "400x400"
+      },
+      {
+        "src": "/img/testimonials/testimonials-3.jpg",
+        "type": "image/jpg",
+        "sizes": "400x400"
+      },
+      {
+        "src": "/img/testimonials/testimonials-4.jpg",
+        "type": "image/jpg",
+        "sizes": "400x400"
+      },
+      {
+        "src": "/img/testimonials/testimonials-5.jpg",
+        "type": "image/jpg",
+        "sizes": "400x400"
+      },
+      {
+        "src": "/img/about.jpg",
+        "type": "image/jpg",
+        "sizes": "1033x768"
+      },
+      {
+        "src": "/img/about-bg.jpg",
+        "type": "image/jpg",
+        "sizes": "1920x1280"
+      },
+      {
+        "src": "/img/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "/img/favicon.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/img/hero-bg.jpg",
+        "type": "image/jpg",
+        "sizes": "1920x1052"
+      }
+    ]
+  }
